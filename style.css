@@ -16,6 +16,25 @@ a {
     margin: auto;
 }
 
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile a {
+    color: burlywood;
+}
+
+.profile .avatar {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 0 20%;
+    border-radius: 50%;
+    box-shadow: 0 0 5px -1px #ffffff;
+    margin-right: 30px;
+}
+
 .project {
     background-color: burlywood;
     padding: 15px;
