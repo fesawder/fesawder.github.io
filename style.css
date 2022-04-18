@@ -1,0 +1,27 @@
+body {
+    background-color: #404040;
+    margin: 15px;
+}
+
+h2 {
+    color: burlywood;
+}
+
+a {
+    color: #000
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+}
+
+.project {
+    background-color: burlywood;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.project h3 {
+    margin-top: 0;
+}
