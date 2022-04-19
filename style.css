@@ -21,6 +21,10 @@ a {
     align-items: center;
 }
 
+.profile-about {
+    color: burlywood;
+}
+
 .profile a {
     color: burlywood;
 }
